@@ -1,0 +1,15 @@
+@CHARSET "UTF-8";
+body { font-size: 12px; font-family: sans-serif; }
+#page { width: 800px; margin: 50px auto; }
+#page table { width: 800px; border-collapse: collapse; border: 1px solid black; }
+#page table th { padding: 5px; border: 1px dotted gray; background: #dddddd; }
+#page table td { padding: 5px; border: 1px dotted gray; }
+#dialog { width: 400px; margin: 50px auto; }
+#dialog table { width: 400px; border-collapse: collapse; border: 1px solid black; }
+#dialog table th { padding: 5px; border: 1px dotted gray; background: #dddddd; }
+#dialog table td { padding: 5px; border: 1px dotted gray; }
+.error-text { color: red; }
+.error-zipcode { border: 1px solid red; }
+.small { font-size: 10px; color: gray; }
+a { text-decoration: none; color: black; }
+img { border: 0px; }

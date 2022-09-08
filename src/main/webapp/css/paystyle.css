@@ -1,0 +1,41 @@
+@charset "utf-8";
+/*base font*/
+body {
+	font-size:12px;
+	font-family:"vernada",ｱｼｸｲ;
+	color:#666666; 
+	line-height:120%;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+td{
+	font-size:12px;
+	font-family:"vernada",ｱｼｸｲ;
+	color:#666666; 
+	line-height:120%;
+	padding:1px 0px 1px 0px;
+}
+select{font-size:12px; font-family:"verdana"; color:#2C2C2C;}
+input{font-size:12px; font-family:"verdana"; color:#2C2C2C;}
+
+/*base link*/
+a {FONT-FAMILY: "vernada",ｱｼｸｲ; FONT-SIZE: 12px; COLOR: #666666; TEXT-DECORATION: none}
+a:hover {FONT-FAMILY: "vernada",ｱｼｸｲ; FONT-SIZE: 12px; COLOR: #0033ff; TEXT-DECORATION:none;font-weight:bold;}
+
+/* main */
+.txt_main      { color:#647CBE; font-weight:bold; font-family: ｱｼｸｲ, verdana; }
+.txt_sub_main  { color:#CB689E; }
+.txt_sub { color:#5EACB8; }
+.notice  { color:#2092B6; }
+
+.box { background-color:silver; font-size:9pt;border:#818181 1px solid;}
+
+.txt_pd1 {
+	font-family:"verdana"; 
+	color: #D7D7D7;
+	font-weight: bold;
+	font-size: 14px;
+	padding:0px 30px 8px 0px;
+}
